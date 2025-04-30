@@ -41,7 +41,7 @@ nav a {
 nav a.active,
 nav a:hover {
   text-decoration: underline;
-  color: #C0D8E0; /* columbia blue */
+  color: #D4EAC8; /* tea green */
 }
 
 main {
@@ -83,6 +83,6 @@ h1, h2 {
 
 p {
   line-height: 1.6;
-  color: #C0D8E0; /* columbia blue */
+  color: #D4EAC8; /* tea green */
   font-family: "Poiret One", sans-serif;
 }
