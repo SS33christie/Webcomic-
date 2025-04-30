@@ -53,16 +53,12 @@ main {
 .comic-container {
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
   align-items: center;
 }
 
 .comic-page {
   width: 100%;
   max-width: 700px;
-  border: 3px solid #484538;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  border-radius: 6px;
 }
 
 .about-page {
