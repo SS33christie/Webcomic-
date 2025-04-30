@@ -25,7 +25,7 @@ body {
 
 
 nav {
-  background-color: #7a3b3b; /* muted maroon */
+  background-color: #484538; /* black olive */
   padding: 1em;
   text-align: center;
 }
@@ -41,7 +41,7 @@ nav a {
 nav a.active,
 nav a:hover {
   text-decoration: underline;
-  color: #d6e8e6; /* light blue-gray highlight */
+  color: #C0D8E0; /* columbia blue */
 }
 
 main {
@@ -60,7 +60,7 @@ main {
 .comic-page {
   width: 100%;
   max-width: 700px;
-  border: 3px solid #7a3b3b;
+  border: 3px solid #484538;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   border-radius: 6px;
 }
@@ -72,17 +72,17 @@ main {
 .profile-pic {
   width: 180px;
   border-radius: 50%;
-  border: 5px solid #7a3b3b;
+  border: 5px solid #484538;
   margin-bottom: 1em;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2 {
-  color: #7a3b3b;
+  color: #484538;
 }
 
 p {
   line-height: 1.6;
-  color: #4b4b4b;
+  color: #CAD49D; /* sage */
   font-family: "Poiret One", sans-serif;
 }
